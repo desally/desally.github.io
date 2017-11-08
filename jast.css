@@ -1,0 +1,9 @@
+
+
+
+.jumbotron{
+	background-image: url(img/back.jpg);
+	background-repeat: no-repeat;
+	height: 300px;
+	background-size: 1200px;
+}
